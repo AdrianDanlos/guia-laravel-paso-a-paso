@@ -935,7 +935,7 @@ En ocasiones puede haber problemas si la máquina virtual se ejecuta en un host 
 
 ```bash
 npm install --no-bin-links
-npm install --global cross-env
+sudo npm install --global cross-env
 ```
 #### 4. Compilar el código JS y CSS mediante Webpack:
 ```bash
